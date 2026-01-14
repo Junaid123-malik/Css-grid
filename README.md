@@ -14,13 +14,8 @@ Individual item alignment using align-self
 
 Centering grid content inside the viewport
 
-📂 Project Structure
-css-grid-example/
-│
-├── index.html
-└── README.md
 
-🧱 HTML Structure
+ HTML Structure
 <div class="container">
     <div class="items item-4">1</div>
     <div class="items item-2">2</div>
@@ -36,7 +31,7 @@ css-grid-example/
 
 .item-2 → Demonstrates individual item alignment
 
-🎨 CSS Grid Explanation
+ CSS Grid Explanation
 .container {
     border: 2px solid black;
     display: grid;
@@ -67,7 +62,7 @@ css-grid-example/
     align-self: self-end;
 }
 
-🔍 Key Concepts Used
+ Key Concepts Used
 1. Grid Container
 display: grid;
 
@@ -108,7 +103,7 @@ align-self: self-end;
 
 Overrides alignment for a single grid item.
 
-🚀 How to Run
+ How to Run
 
 Clone the repository
 
@@ -116,7 +111,7 @@ Open index.html in any modern browser
 
 Resize the window to observe grid behavior
 
-📖 Best For
+ Best For
 
 CSS Grid beginners
 
@@ -125,7 +120,6 @@ Frontend practice
 Interview preparation
 
 Learning layout alignment concepts
-
-📜 License
+License
 
 This project is open-source and free to use for learning purposes.
